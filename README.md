@@ -22,6 +22,7 @@ Uma analogia a um algoritmo é que ele seria uma receita de comida: ambos têm e
 ## ⚙️ Funcionalidades
  
 A principal funcionalidade deste repositório e para estudos, documentação sobre padrões de projeto.
+
 ---
 
 
