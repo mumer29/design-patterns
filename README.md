@@ -23,6 +23,14 @@ Uma analogia a um algoritmo é que ele seria uma receita de comida: ambos têm e
  
 A principal funcionalidade deste repositório e para estudos, documentação sobre padrões de projeto.
 
----
+Por que devo aprender padrões?
+
+A verdade é que você pode conseguir trabalhar como um programador por muitos anos sem saber sobre um único padrão. Muitas pessoas fazem exatamente isso. Ainda assim, contudo, você estará implementando alguns padrões mesmo sem saber. Então, por que gastar tempo para aprender sobre eles?
+
+Os padrões de projeto são um kit de ferramentas para soluções tentadas e testadas para problemas comuns em projeto de software. Mesmo que você nunca tenha encontrado esses problemas, saber sobre os padrões é ainda muito útil porque eles ensinam como resolver vários problemas usando princípios de projeto orientado a objetos.
+
+Os padrões de projeto definem uma linguagem comum que você e seus colegas podem usar para se comunicar mais eficientemente.
+
+Você pode dizer, “Oh, é só usar um Singleton para isso,” e todo mundo vai entender a ideia por trás da sua sugestão. Não é preciso explicar o que um singleton é se você conhece o padrão e seu nome.
 
 
