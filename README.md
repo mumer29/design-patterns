@@ -1,6 +1,7 @@
 ## 💻 Sobre o repositório
 
 Dedicado a projetos treino e testes sobre padrões de projeto.
+[Site do projeto](https://leandrojsantos.github.io/design-patterns/)
  
 ### Pradrões de projeto
 

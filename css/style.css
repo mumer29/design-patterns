@@ -1492,7 +1492,7 @@ button:focus {
   text-align: right;
 }
 .navbar-nemo .navbar-nav > li > a {
-  color: #272727;
+  color: #fff;
 }
 .navbar-nemo .navbar-nav > li > a:hover,
 .navbar-nemo .navbar-nav > li > a:focus {
