@@ -1,6 +1,6 @@
 ## 💻 Sobre o repositório
 
-[Site do projeto](https://leandrojsantos.github.io/design-patterns/)
+[Site do projeto](https://leandrojsantos.github.io/design-patterns/pages)
  
 ### Pradrões de projeto
 
