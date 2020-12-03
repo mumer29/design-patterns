@@ -1,6 +1,5 @@
 ## 💻 Sobre o repositório
 
-Dedicado a projetos treino e testes sobre padrões de projeto.
 [Site do projeto](https://leandrojsantos.github.io/design-patterns/)
  
 ### Pradrões de projeto
@@ -33,5 +32,3 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 Os padrões de projeto definem uma linguagem comum que você e seus colegas podem usar para se comunicar mais eficientemente.
 
 Você pode dizer, “Oh, é só usar um Singleton para isso,” e todo mundo vai entender a ideia por trás da sua sugestão. Não é preciso explicar o que um singleton é se você conhece o padrão e seu nome.
-
-
